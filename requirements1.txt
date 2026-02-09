@@ -1,0 +1,11 @@
+mlflow
+optuna
+optuna-integration[mlflow]
+scikit-learn
+nltk
+emoji
+pandas
+numpy
+matplotlib
+seaborn
+
